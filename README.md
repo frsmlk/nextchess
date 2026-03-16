@@ -5,7 +5,6 @@ Chrome extension that overlays visual engine analysis on chess.com's analysis bo
 Stop reading notation. Start seeing moves.
 
 ![Board overlay showing ranked engine moves](screenshots/overlay.png)
-![Hover preview board with animated move playthrough](screenshots/preview.png)
 
 ## What it does
 
@@ -62,6 +61,9 @@ No external servers. No data collection. Everything runs locally in your browser
 - Only shows on main line moves (hides when you enter a variation)
 
 **Preview board**
+
+![Hover preview board with animated move playthrough](screenshots/preview.png)
+
 - Hover a highlighted square to see the engine's full predicted line
 - Animated piece sliding with chess.com's own piece images
 - Move and capture sounds
