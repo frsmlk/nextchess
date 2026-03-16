@@ -4,6 +4,9 @@ Chrome extension that overlays visual engine analysis on chess.com's analysis bo
 
 Stop reading notation. Start seeing moves.
 
+![Board overlay showing ranked engine moves](screenshots/overlay.png)
+![Hover preview board with animated move playthrough](screenshots/preview.png)
+
 ## What it does
 
 NextChess reads the engine lines on chess.com's analysis page and highlights the moves directly on the board.
